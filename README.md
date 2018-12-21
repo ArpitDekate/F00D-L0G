@@ -3,5 +3,9 @@ This project is based on MVC framework. This has a database connectivity to stor
 
 Technologies Used
 1.MVC Framework
+
+
 2.SQL Server 2012
+
+
 3.C#
